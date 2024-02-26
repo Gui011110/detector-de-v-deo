@@ -1,1 +1,1 @@
-# detector-de-v-deo
+# detector-de-video
